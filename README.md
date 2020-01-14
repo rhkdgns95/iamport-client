@@ -2,12 +2,15 @@
 
 ## Todo
 [x] Init.
+[x] I-AM-PORT Settings.
 
 ## Install
 1. yarn create react-app ./ --template typescript
 2. yarn add react-router-dom @types/react-router-dom
-
-
+3. yarn add query-string
+4. yarn add styled-components @types/styled-components
+5. yarn add react-useragent @types/react-useragent
+6. yarn add antd
 
 <!-- This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
